@@ -2,6 +2,7 @@
 
 Face Recognition System using OpenCv and Numpy in Python.
 
+
 -Install OpenCv and Numpy.
 
 -Create testImages and trainingImages files.
